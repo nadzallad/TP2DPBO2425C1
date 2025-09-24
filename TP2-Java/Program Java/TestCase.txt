@@ -1,0 +1,31 @@
+Test Case 1 : Berhasil Menambah data 
+
+1
+P006
+Amerika Serikat 
+15999000
+Gudang Pusat - Lantai 2, Rak C7 - Blok Timur
+Neo QLED 8K QN900A Series 75 Inch
+Samsung
+75 inci
+5
+2025
+
+Test Case 2 : Gagal Menambah Data Dengan ID Sama 
+1
+P006
+Jerman
+3490000
+Gudang Samping - Rak D4
+LED TV Full HD Android
+Balupunkt
+40 inci 
+18
+2030
+
+Test Case 3 : Menampilkan data 
+2
+
+Test Case 4 : Keluar Program 
+3
+
