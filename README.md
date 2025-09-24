@@ -15,7 +15,7 @@ Hubungan relasi mengenai desain toko elektronik dimulai dari class Produk-Elektr
 
 //Penjelasan Method
 
-Menggunakan constructor untuk menginisialisasi nilai, meggunakan getter unutk mengambil data dan menggunakan setter untuk mengubah data.
+Menggunakan constructor untuk menginisialisasi nilai yang bisa digunakan untuk memasukkan informasi penting seperti ID produk, asal, harga, lokasi penyimpanan, nama, dan merek secara otomatis ketika objek baru dibuat, meggunakan getter untuk mengambil data dimana nantinya digunakan unutk menampilkan seluruh produk yang ada.
 
 //Alur Program
 1. Pada tahap pertama user akan diberikan menu dan dipersilahkan untuk memilih program mana yang akan dijalankan. Terdapat 3 program yang dapat dijalankan dengan pilihan angka untuk menambah(1), menampilkan(2), dan keluar dari program(3).
@@ -25,5 +25,6 @@ Menggunakan constructor untuk menginisialisasi nilai, meggunakan getter unutk me
 //Dokumentasi Program
 1. CPP : https://github.com/user-attachments/assets/30cadf29-a262-4db5-b4fc-f9aba5e053ac
 2. Python : https://github.com/user-attachments/assets/519bb665-534e-4956-80a4-a3c353e60fd6
-3. Java :
-4. PHP
+3. Java : https://github.com/user-attachments/assets/e206421b-1d47-41bd-b68c-ec47b06872f9
+4. PHP : <img width="1919" height="1022" alt="image" src="https://github.com/user-attachments/assets/d75ce697-a074-47a6-a80a-6dae5e72d9b7" />
+
