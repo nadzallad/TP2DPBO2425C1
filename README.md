@@ -24,6 +24,6 @@ Menggunakan constructor untuk menginisialisasi nilai, meggunakan getter unutk me
 
 //Dokumentasi Program
 1. CPP : https://github.com/user-attachments/assets/30cadf29-a262-4db5-b4fc-f9aba5e053ac
-2. Python :
+2. Python : https://github.com/user-attachments/assets/519bb665-534e-4956-80a4-a3c353e60fd6
 3. Java :
 4. PHP
